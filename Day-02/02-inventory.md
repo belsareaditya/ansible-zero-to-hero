@@ -23,6 +23,7 @@ db2.example.com
 ansible_user=admin
 ansible_ssh_private_key_file=/path/to/key
 ```
+<img width="1411" height="416" alt="image" src="https://github.com/user-attachments/assets/201805bf-4319-44c8-ace1-40558bf92fae" />
 
 ### YAML
 
